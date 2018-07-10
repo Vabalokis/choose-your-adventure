@@ -1,61 +1,57 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: 'Oxygen', sans-serif;
-    color: rgb(84, 107, 29);
+  margin: 0;
+  padding: 0;
+  font-family: "Oxygen", sans-serif;
+  color: rgb(84, 107, 29);
 }
 
-
 body {
-    background: rgb(253, 239, 113);
+  background: rgb(253, 239, 113);
 }
 
 h1 {
-    font-size: 50px
+  font-size: 50px;
 }
 
 p {
-    font-size: 35px;
-    margin-top: 40px;
+  font-size: 35px;
+  margin-top: 40px;
 }
 
-
 button {
-    content: "";
-    margin-top: 30px;
-    margin-right: 20px;
-    font-size: 26px;
-    background: rgb(214, 167, 37);
-    color: rgb(231, 255, 174);
-    border: 0;
-    border-radius: 15px;
-    padding: 5px;
-    border: 2px solid rgba(94, 145, 65, 0.274);
+  content: "";
+  margin-top: 30px;
+  margin-right: 20px;
+  font-size: 26px;
+  background: rgb(214, 167, 37);
+  color: rgb(231, 255, 174);
+  border: 0;
+  border-radius: 15px;
+  padding: 5px;
+  border: 2px solid rgba(94, 145, 65, 0.274);
 }
 
 button:hover {
-    background: rgb(245, 192, 48);
-    border: 2px solid rgba(94, 145, 65, 0.034);
-    color: rgb(84, 107, 29);
-    cursor: pointer;
+  background: rgb(245, 192, 48);
+  border: 2px solid rgba(94, 145, 65, 0.034);
+  color: rgb(84, 107, 29);
+  cursor: pointer;
 }
 
-
-
 .contentcontainer {
-    margin: 10% auto;
-    text-align: center;
+  margin: 10% auto;
+  text-align: center;
 }
 
 #restart {
-    margin-left: 30px;
-    font-size: 20px;
-    background: rgb(253, 239, 113);
-    border: 2px solid rgba(94, 145, 65, 0.1);
-    color: rgba(84, 107, 29, 0.479);
+  margin-left: 30px;
+  font-size: 20px;
+  background: rgb(253, 239, 113);
+  border: 2px solid rgba(94, 145, 65, 0.1);
+  color: rgba(84, 107, 29, 0.479);
 }
 
 #restart:hover {
-    background: rgba(84, 107, 29, 0.479);
-    color: rgb(253, 239, 113);
+  background: rgba(84, 107, 29, 0.479);
+  color: rgb(253, 239, 113);
 }
